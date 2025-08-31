@@ -3,7 +3,7 @@ import java.util.*;
 public class calculator {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Wlcome to the Calculator.");
+        System.out.println("Welcome to the Calculator.");
         System.out.println("Please Choose the operation you want to perform:");
         System.out.println("1. Addition");
         System.out.println("2. Subtraction");
