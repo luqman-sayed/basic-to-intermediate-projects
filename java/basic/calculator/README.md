@@ -17,4 +17,9 @@ Add, Subtract, Multiply and Divide.
     java calculator
  4. Output:
     ```bash
-    
+    Welcome to the Calculator.
+    Please Choose the operation you want to perform:
+    1. Addition
+    2. Subtraction
+    3. Multiplication
+    4. Division
