@@ -7,6 +7,14 @@ Add, Subtract, Multiply and Divide.
 ## How to Run.
 
  1. Open a terminal and navigate to this folder:
- 2. Compile the program:
+    ```bash
+    cd java/basic/calculator
+ 2. Compile the program
+    ```bash
+    javac calculator.java
  3. Run the program:
+    ```bash
+    java calculator
  4. Output:
+    ```bash
+    
